@@ -1,14 +1,12 @@
 /*
-* UC4 : Repeat till the Player reaches the winning position 100.
+* UC5 : Ensure the player gets to exact winning position 100.
 */
 package com.bridgelabz.snakeladder;
 
 public class SnakeLadder {
 	// Class level variables
 	static int total = 0;
-	static int cal = 0;
-	static int count = 0;
-
+	
 	// use method to roll die
 
 	static void rolldie() {
